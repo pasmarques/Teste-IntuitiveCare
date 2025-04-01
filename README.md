@@ -29,7 +29,6 @@ operadoras-busca/
 
 ---
 
-## **Conteúdo do `README.md` (principal)**
 ```md
 # Busca de Operadoras de Saúde
 
@@ -49,7 +48,7 @@ Este projeto contém um backend em Flask e um frontend em Vue.js para pesquisar 
    ```
 3. Rode o servidor:
    ```sh
-   python app.py
+   python api.py
    ```
 4. O backend estará disponível em `http://127.0.0.1:5000`.
 
