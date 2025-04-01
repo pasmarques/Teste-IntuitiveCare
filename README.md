@@ -2,7 +2,8 @@
 Repositório para guardar os códigos do teste da vaga de estágio
 
 
-O maior projeto foi o do teste 4, por isso criei um read.me para ele
+O maior projeto foi o do teste 4, por isso criei um read.me para ele:
+Abaixo segue a estrutura do projeto do teste 4:
 
 ```
 operadoras-busca/  
